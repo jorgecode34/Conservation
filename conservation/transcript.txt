@@ -1,4 +1,4 @@
-Primer Art: hola
+Primer Art: Soy el texto del primer artículo, debo estar en una sola línea.
 Segundo Art:
 Tercer Art:
 Cuarto Art:
